@@ -5,7 +5,9 @@ I've designed a small snippet of code that should solve a common problem facing 
 
 The solution that I've come up with is taken straight from the print publishing industry
 
-**A digital Business Reply Mail insert**.
+![insert](https://raw.github.com/saranrapjs/business-reply-mail.js/master/businessreply.jpg)
+
+### !! a digital Business Reply Mail insert !!
 
 ## Installing
 
