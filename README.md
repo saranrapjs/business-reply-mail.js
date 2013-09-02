@@ -13,7 +13,7 @@ When a user scrolls too quickly on a page with `business-reply-mail.js` included
 
 ## Install on your site
 
-The simplest way to install is by including this block of HTML somewhere on your website:
+The simplest way to install is by copying and pasting this block of code at the end of the `<body>` tag on your website:
 
 ```
 <script src="http://bigboy.us/other/business-reply-mail.js"></script>
