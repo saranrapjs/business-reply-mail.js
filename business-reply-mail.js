@@ -58,6 +58,7 @@
 			doc.style.position = "absolute"
 			doc.style.top = -1000
 			doc.style.left = -1000
+			doc.style.zIndex = 10000
 			doc.style.cursor = 'pointer'
 			for (var i in {'WebkitTransform':true, 'MozTransform':true, 'transform':true}) {
 				doc.style[i] = 'rotate('+(Math.floor(Math.random() * (305 - 10 + 1)) + 10)+'DEG)'				
