@@ -1,7 +1,7 @@
 business-reply-mail.js
 ===================
 
-### a digital Business Reply Mail insert
+### a Business Reply Mail insert for the web
 
 I've designed a small snippet of code that should solve a common problem facing today's webmasters: how do you keep people reading?
 
