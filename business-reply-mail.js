@@ -95,5 +95,9 @@
 			}, 1000)
 		}, 500)
 	}
-	window.addEventListener('load', setup, false)
+	if (document.readyState === "complete") { 
+		setup(); 
+	} else {
+		window.addEventListener('load', setup, false)		
+	}
 })()

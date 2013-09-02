@@ -1,1 +1,7 @@
-!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="http://bigboy.us/other/business-reply-mail.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","reply-js");
+// simple stupid script for converting the js to bookmarklet
+
+var fs = require('fs')
+
+var m = fs.readFileSync('business-reply-mail.js').toString()
+
+console.log(encodeURIComponent(m))
