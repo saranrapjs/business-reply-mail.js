@@ -9,9 +9,12 @@ This small piece of javascript introduces a powerful publishing tool to the web:
 
 When a user scrolls too quickly on a page with `business-reply-mail.js` included, a digital insert will float onto their screen.  At this point, the user can drag the insert out of the way, but can't throw it away it until the page is reloaded.
 
+#### [Demo: see it in use](http://ilikenicethings.com/darkarts/)
+
 #### Example: the New York Times
 
 ![screen shot 2013-09-03 at 11 26 58 am](https://f.cloud.github.com/assets/707098/1073768/65485768-14ad-11e3-88fa-1029ab2b83a2.png)
+
 
 ## Install it on your site
 
